@@ -1,0 +1,8 @@
+pycache/
+*.pyc
+.DS_Store
+.env
+venv/
+tf_env/
+tf_env311/
+.ipynb_checkpoints/
